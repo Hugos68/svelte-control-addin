@@ -6,6 +6,7 @@
     "verbatimModuleSyntax": true,
     "strict": true,
     "esModuleInterop": true,
-    "skipLibCheck": true
+    "skipLibCheck": true,
+    "typeRoots": ["src/index.d.ts"]
   }
 }

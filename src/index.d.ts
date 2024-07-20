@@ -1,5 +1,7 @@
 declare interface Window {
-  // Define the global methods that are exposed to the control add-in
+  /**
+   * Define methods that should be exposed to the control add-in here.
+   */
 }
 
 declare interface Environment {
