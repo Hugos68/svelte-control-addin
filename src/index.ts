@@ -1,8 +1,6 @@
 import App from "./index.svelte";
 import { mount } from "svelte";
 
-const app = mount(App, {
+mount(App, {
   target: document.querySelector("#controlAddIn")!,
 });
-
-export default app;
