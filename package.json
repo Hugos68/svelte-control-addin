@@ -1,5 +1,5 @@
 {
-  "name": "rollup-svelte-control-addin",
+  "name": "svelte-control-addin",
   "private": true,
   "scripts": {
     "build": "rollup -c",
