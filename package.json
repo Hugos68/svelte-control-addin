@@ -1,0 +1,21 @@
+{
+  "name": "rollup-svelte-control-addin",
+  "private": true,
+  "scripts": {
+    "build": "rollup -c",
+    "dev": "rollup -c -w"
+  },
+  "dependencies": {
+    "svelte": "5.0.0-next.192"
+  },
+  "devDependencies": {
+    "@rollup/plugin-node-resolve": "^15.2.3",
+    "@rollup/plugin-typescript": "^11.1.6",
+    "rollup": "^4.19.0",
+    "rollup-plugin-import-css": "^3.5.0",
+    "rollup-plugin-svelte": "^7.2.2",
+    "tslib": "^2.6.3",
+    "typescript": "^5.5.3"
+  },
+  "type": "module"
+}
